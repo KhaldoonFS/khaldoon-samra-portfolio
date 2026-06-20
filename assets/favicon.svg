@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#080d0f"/>
+  <rect x="7" y="7" width="50" height="50" fill="none" stroke="#ffffff"/>
+  <path d="M12 7v50" stroke="#24c7bb" stroke-width="3"/>
+  <text x="32" y="41" fill="#ffffff" font-family="Georgia,serif" font-size="27" text-anchor="middle">KS</text>
+</svg>
