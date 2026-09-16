@@ -1,17 +1,23 @@
-# Khaldoon Samra Portfolio
+# Khaldoon Samra | Portfolio
 
-Static professional portfolio focused on IT advisory, IT audit, technology risk, governance, and controls. The visual system uses an evidence-ledger concept with dedicated desktop and mobile hero imagery.
+Personal portfolio covering my Information Systems background, experience, and interests in AI, technology, and data analysis.
 
-## Local preview
+[View the live portfolio](https://khaldoonfs.github.io/khaldoon-samra-portfolio/)
 
-Open `index.html` directly in a browser, or run any static file server from this directory.
+## Background
 
-## Deployment
+Experience in IT advisory and audit, control testing, evidence evaluation, data validation, financial reporting, and IT support. My project work includes business intelligence and machine learning.
 
-The site is compatible with GitHub Pages, Cloudflare Pages, Netlify, and Vercel. No build command is required.
+## Featured practice cases
 
-Publishing must only happen after Khaldoon reviews and approves the local site.
+- **Risk and control assessment:** evidence requirements and test procedures.
+- **Data privacy review:** data flows, access responsibilities, and control gaps.
+- **Financial analytics:** KPI definitions, reporting, and validation checks.
 
-## Content safety
+All case-study organizations, records, metrics, and outcomes are fictional. No employer, client, or confidential information is included.
 
-All case-study companies, records, metrics, and outcomes are fictional. No Grant Thornton or client documents are included.
+## Website
+
+Built with HTML, CSS, and JavaScript. Open `index.html` in a browser, or serve this directory with any static file server. No build step or dependency installation is required.
+
+The site includes my experience, professional development, contact links, and a downloadable CV.
